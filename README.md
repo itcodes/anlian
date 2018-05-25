@@ -45,7 +45,7 @@ Blockchain Developer Technology Community
 
     一个分布式的技术组织，基于人人分享、人人受益的共识。
 
-#### 09.矿工奖励算法：
+#### 09.奖励算法：
 
 #### 10.空投机制：
 
