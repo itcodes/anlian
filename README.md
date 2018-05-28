@@ -11,7 +11,7 @@ Blockchain Developer Technology Community
 
 ### 03.定位： 
 
-    中国最大的区块链开发者技术社区,目标覆盖1000万区块链开发者.
+    全球最大的区块链开发者技术社区,目标覆盖1000万区块链开发者.
 
 ### 04.Token：
 
