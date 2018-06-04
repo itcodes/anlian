@@ -4,7 +4,7 @@ Blockchain Developer Technology Community
 
 #### 00.概述
 
-    为每位开发者在区块链上，建立一个独立的主页。它是可加密的、可靠的、永远保留的、不被篡改、有价值的主页。涉及到开发者领域有游戏开发、移动应用、前端开发、后端开发、人工智能、大数据、物联网、信息安全、物联网、运维管理、云技术、区块链等。涉及到的开发语言有Javascript、Java、SQL、PHP、Python、C#、C++、C、Objective-C、Go、TypeScript、Swift、Lua、Scala、VB.NET、R、Ruby、VisualBasic6、Matlab、Perl、VBA、Groovy、Assembly、Haskell、CoffeeScript等。平台将采用基于POD贡献证明的共识算法，激励模型让开发者在公平的模式下创作。每个主页会记录着开发者的技术历程，可以分享技术内容，可以储存自己代码，可以发布有偿供技术服务、可以发布自己的产品。在技术主页上提供所有的环节，将获得Token的收益。
+   为每位开发者在区块链上，建立一个独立的主页。它是可加密的、可靠的、永远保留的、不被篡改、有价值的主页。涉及到开发者领域有游戏开发、移动应用、前端开发、后端开发、人工智能、大数据、物联网、信息安全、物联网、运维管理、云技术、区块链等。涉及到的开发语言有Javascript、Java、SQL、PHP、Python、C#、C++、C、Objective-C、Go、TypeScript、Swift、Lua、Scala、VB.NET、R、Ruby、VisualBasic6、Matlab、Perl、VBA、Groovy、Assembly、Haskell、CoffeeScript等。平台将采用基于POD贡献证明的共识算法，激励模型让开发者在公平的模式下创作。每个主页会记录着开发者的技术历程，可以分享技术内容，可以储存自己代码，可以发布有偿供技术服务、可以发布自己的产品。在技术主页上提供所有的环节，将获得Token的收益。
 
     记录自己信息：自己的成长记录。
     分享技术内容：技术文章等。
